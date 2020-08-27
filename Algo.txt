@@ -1,0 +1,5 @@
+1. start
+2. read the values of a and b.
+3. c=a+b.
+4. print c.
+5. end
