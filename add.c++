@@ -8,10 +8,8 @@ int add(int,int);
 int addition::add(int a, int b)
 {
 int c;
-cout<<"Enter the value of first number"<<endl;
-cin>>a;
-cout<<"Enter the value of second number"<<endl;
-cin>>b;
+cout<<"Enter the value of numbers : "<<endl;
+cin>>a>>b;
 c=a+b;
 return c;
 }
